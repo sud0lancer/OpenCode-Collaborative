@@ -319,6 +319,14 @@
           "facebook" : "",
           "github" : "https://github.com/16priyesh",
           "twitter" : ""
-        }
+        },
+	   {
+         "name":"Sudhanshu",
+         "imageurl":"contestant/sud0.jpg",
+         "about":"Keep 'em on their toes",
+         "facebook":"https://www.facebook.com/sudhanshu7shakya",
+         "github":"https://github.com/sud0lancer",
+         "twitter":""
+      }
    ]
 }
